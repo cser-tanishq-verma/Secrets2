@@ -1,7 +1,7 @@
 # GitHub Secrets Demo Project
 
 This is a bare-minimum project illustrating how to store and access sensitive tokens or credentials securely using **GitHub Secrets** and **GitHub Actions**.
-This is me
+This is me Tanishq
 ---
 
 ## How It Works
